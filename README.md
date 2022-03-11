@@ -10,3 +10,5 @@ The rules are the same as normal tiktaktoe with only 3 different rules.
 3. There is one exception to rule 2. Iff the higher level square in which your next move must be played is completed, it is the person who won the lower level game in that square    who decides which higher level square the next move should be played in. So this may lead to you deciding where your next move is (which is usually ideal) or your opponent        deciding where your next move is (not so ideal).
 
 Thats it have fun! Hopefully this makes sense. Also forgive the weird game I made this for my gf lol.
+
+NOTE: Ignore the "player 1's turn" It doesnt work yet
